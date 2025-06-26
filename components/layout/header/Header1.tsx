@@ -316,7 +316,7 @@ export default function Header1({
               <div className="header-right">
                 <div className="d-none d-xxl-inline-block align-middle mr-15">
                   <Link
-                    className="btn btn-signin bg-blue text-light"
+                    className="btn btn-signin bg-orange text-light"
                     href="/pricing"
                   >
                     Enroll Here

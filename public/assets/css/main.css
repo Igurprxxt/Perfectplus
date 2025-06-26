@@ -844,7 +844,7 @@ p {
 	background-color: var(--bs-color-blue);
 }
 .bg-orange{
-	background-color: var(--bs-color-orange);
+	background-color: var(--bs-color-orange) !important;
 }
 
 /*page loading*/
