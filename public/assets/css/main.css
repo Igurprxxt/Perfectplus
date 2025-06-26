@@ -5589,7 +5589,7 @@ margin-left: 15%;
 
 .header .nav-main-menu {
 	display: flex;
-	padding: 0px;
+	padding: 12px;
 	align-items: center;
 	justify-content: center;
 	text-align: left;

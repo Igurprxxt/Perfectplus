@@ -141,8 +141,8 @@ export default function Header1({
                     alt="Carento"
                     src="/assets/imgs/template/logo.png"
                     style={{
-                      width: "180px",
-                      height: "55px",
+                      width: "200px",
+                      height: "75px",
                       objectFit: "contain",
                     }}
                   />
