@@ -2119,7 +2119,7 @@ body {
 	padding: 15px;
 	width: 100%;
 	background-color: var(--bs-brand-2);
-	color: var(--bs-neutral-1000);
+	color: #fff !important;
 	font-size: 16px;
 	line-height: 26px;
 	font-weight: bold;
@@ -2129,7 +2129,12 @@ body {
 }
 
 .btn.btn-book svg {
-	stroke: var(--bs-neutral-1000);
+	stroke: #fff;
+	margin-left: 10px;
+}
+
+.btn.btn-signin svg {
+	stroke: #fff;
 	margin-left: 10px;
 }
 

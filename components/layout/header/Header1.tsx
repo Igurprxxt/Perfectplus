@@ -320,6 +320,21 @@ export default function Header1({
                     href="/pricing"
                   >
                     Enroll Here
+                    <svg
+                      width={12}
+                      height={12}
+                      viewBox="0 0 18 18"
+                      fill="none"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M8.5 15L15.5 8L8.5 1M15.5 8L1.5 8"
+                        stroke="currentColor"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                    </svg>
                   </Link>
                 </div>
                 {/* <div
