@@ -36,6 +36,7 @@ export default function Home() {
         <CarReview1 />
         <Blog1 />
         {/* <App /> */}
+        {/* Added a comment */}
       </Layout>
     </>
   );
